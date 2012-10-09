@@ -1,0 +1,2 @@
+Needed Targa 24bit
+RLE compression is also a good idea
