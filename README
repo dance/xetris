@@ -1,0 +1,3 @@
+Xetris is my first c/c++ project dated back to year 2005. It's written in old c-style and I'm not even sure now if it uses any c++ feature. For input processing and graph output it uses DirectX (DirectInput and DirectDraw).
+
+Nothing special, just a tetris clone game.
